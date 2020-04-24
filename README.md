@@ -7,6 +7,4 @@ The emails should be using the aspect. Apply proper hint after new element is ad
 
 - Java 8
 - Spring Boot
-- Thymeleaf
-- MySql database from https://remotemysql.com/
 
